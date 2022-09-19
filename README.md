@@ -42,10 +42,10 @@ To increase model performance I was converting the NAME column into data points,
 
 An applicant has a 80% chance of being successful if they have the following:
 
-The NAME of the applicant appears more than 5 times (they have applied more than 5 times)
-The type of APPLICATION is one of the following; T3, T4, T5, T6, T7, T8, T10, and T19
-The application has the following CLASSIFICATION; C1000, C2000, C3000, C1200, and C2100.
-That is the good model to recommend. Using this model produces a  0.7895 accuracy. 
+* The <code>NAME</code> of the applicant appears more than 5 times (they have applied more than 5 times)  
+* The type of <code>APPLICATION</code> is one of the following; T3, T4, T5, T6, T7, T8, T10, and T19  
+* The application has the following <code>CLASSIFICATION</code>; C1000, C2000, C3000, C1200, and C2100  
+* That is the good model to recommend. Using this model produces a  0.7895 accuracy. 
 
 ## Summary
 
